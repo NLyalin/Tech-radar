@@ -3,11 +3,11 @@ Allure Test OPS,Adopt,Tools,False ,наша система тест менедж
 Kibana,Adopt,Tools,False ,работаем с логами сервисов 
 Grafana,Adopt,Tools,False ,работаем с метриками сервисов
 PL/SQL Developer,Adopt,Tools,False ,раобтаем с БД
-Gitlab,Adopt,Tools,TRUE,
+GitlabCI,Assess,Tools,TRUE,
 Git,Adopt,Tools,False ,
 Maven,Adopt,Tools,False ,Используем при автоматизации тест-кейсов
 TestNG,Adopt,Tools,False ,Используем при автоматизации тест-кейсов
-Jenkins,Adopt,Tools,False ,
+Jenkins,Hold,Tools,False ,
 Jira,Adopt,Tools,False ,
 Vault,Adopt,Tools,False ,
 SoapUI,Hold,Tools,False ,это древнее зло ещё попадается в некоторых командах
