@@ -34,7 +34,7 @@ Java 17,Adopt,Programming Languages and Frameworks,False ,
 PL SQL,Adopt,Programming Languages and Frameworks,False ,"работаем с разрабатываемым кодом, пишем свои хранимки и функции"
 Spring,Adopt,Programming Languages and Frameworks,False ,
 Code Review,Adopt,Techniques,True , проводим ревью автотестов 
-Shift Right,Assess,Techniques,True , 
+Shift Right testing,Assess,Techniques,True , 
 Postgres,Adopt,Platforms, False ,
 Protobuff,Assess,Platforms,True , "XMl,JSON"
 Avro,Adopt,Platforms,False , 
