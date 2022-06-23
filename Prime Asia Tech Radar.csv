@@ -38,4 +38,4 @@ Shift Right,Assess,Techniques,True ,
 Postgres,Adopt,Platforms, False ,
 Protobuff,Assess,Platforms,True , 
 Avro,Adopt,Platforms,False , 
-Kora,Adopt,Programming Languages and Frameworks,True , "фреймворк Java, разработанный в Тинькофф"
+Kora,Adopt,Programming Languages and Frameworks,True , разработанный в Тинькофф фреймворк Java
