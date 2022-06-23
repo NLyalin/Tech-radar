@@ -1,6 +1,7 @@
 name,ring,quadrant,isNew,description
 Allure Test OPS,Adopt,Tools,False ,наша система тест менеджемента 
 Kibana,Adopt,Tools,False ,работаем с логами сервисов 
+Sage,Adopt,Tools,True,работаем с логами сервисов
 Grafana,Adopt,Tools,False ,работаем с метриками сервисов
 PL/SQL Developer,Adopt,Tools,False ,раобтаем с БД
 GitlabCI,Assess,Tools,TRUE,
@@ -11,7 +12,7 @@ Jenkins,Hold,Tools,False ,
 Jira,Adopt,Tools,False ,
 Vault,Adopt,Tools,False ,
 SoapUI,Hold,Tools,False ,это древнее зло ещё попадается в некоторых командах
-Postman,Hold,Tools,False ,для тестирования API
+Postman,Adopt,Tools,False ,для тестирования API
 DBeaver,Adopt,Tools,False ,для подключения к Ignite
 BloomRPC,Adopt,Tools,False ,для тестирования сервисов gRPC
 Swagger,Adopt,Tools,False ,
@@ -24,11 +25,17 @@ daily,Adopt,Techniques,False ,
 Load testing,Assess,Techniques,False ,есть экспертиза внутри компании. потихоньку утаскиваем в свои команды
 Kafka,Adopt,Platforms,False ,
 Docker,Adopt,Platforms,False ,
-Cassandra,Adopt,Platforms,False ,
+Cassandra,Assess,Platforms,False ,
 Oracle,Adopt,Platforms,False ,
 Ignite,Adopt,Platforms,False ,
 GRPC,Adopt,Platforms,False ,
 Redis,Adopt,Platforms,False ,
-Java 11,Adopt,Programming Languages and Frameworks,False ,
+Java 17,Adopt,Programming Languages and Frameworks,False ,
 PL SQL,Adopt,Programming Languages and Frameworks,False ,"работаем с разрабатываемым кодом, пишем свои хранимки и функции"
 Spring,Adopt,Programming Languages and Frameworks,False ,
+Code Review,Adopt,Techniques,True , проводим ревью автотестов 
+Shift Right,Assess,Techniques,True , 
+Postgres,Adopt,Platforms, False ,
+Protobuff,Assess,Platforms,True , 
+Avro,Adopt,Platforms,False , 
+Kora,Adopt,Programming Languages and Frameworks,True , "фреймворк Java, разработанный в Тинькофф"
