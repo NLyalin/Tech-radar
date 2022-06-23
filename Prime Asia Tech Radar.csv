@@ -36,6 +36,7 @@ Spring,Adopt,Programming Languages and Frameworks,False ,
 Code Review,Adopt,Techniques,True , проводим ревью автотестов 
 Shift Right,Assess,Techniques,True , 
 Postgres,Adopt,Platforms, False ,
-Protobuff,Assess,Platforms,True , 
+Protobuff,Assess,Platforms,True , "XMl,JSON"
 Avro,Adopt,Platforms,False , 
 Kora,Adopt,Programming Languages and Frameworks,True , разработанный в Тинькофф фреймворк Java
+Cloud Infrostructure,Adopt,Platforms,False , 
